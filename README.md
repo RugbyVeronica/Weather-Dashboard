@@ -44,6 +44,4 @@ A simple web application that allows users to search for a city to get the curre
 
 
 ## Contributor:
-Veronica Lake ©2023 All Rights Reserved.
-- - -
-
+Veronica Lake
